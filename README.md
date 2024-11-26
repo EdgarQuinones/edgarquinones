@@ -9,6 +9,7 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 - [Snake](https://github.com/EdgarQuinones/Snake) 
 - [Quiz Generator](https://github.com/EdgarQuinones/Quiz-Generator)
 - [Hangman](https://github.com/EdgarQuinones/Hangman)
+- [DFA Generator](https://github.com/EdgarQuinones/DFA-Generator/tree/main)
 ## Competitions 
 - [NCAE Cyber Games](https://github.com/EdgarQuinones/NCAE-Cyber-Games) 
 - [National Cyber League (NCL)](https://github.com/EdgarQuinones/National-Cyber-League)
