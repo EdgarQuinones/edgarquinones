@@ -13,6 +13,7 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 - [Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)
 - [Binary Tree Traversal](https://github.com/EdgarQuinones/Binary-Tree-Traversal)
 - [Graph Traversal](https://github.com/EdgarQuinones/Graph-Traversal)
+- [Sparce Matrix 2D](https://github.com/EdgarQuinones/Sparse-Matrix-2D)
 ## Competitions 
 - [NCAE Cyber Games](https://github.com/EdgarQuinones/NCAE-Cyber-Games) 
 - [National Cyber League (NCL)](https://github.com/EdgarQuinones/National-Cyber-League)
