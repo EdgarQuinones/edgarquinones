@@ -10,12 +10,6 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 - **[National Cyber League (NCL)](https://github.com/EdgarQuinones/National-Cyber-League)**  
   Competing in the National Cyber League Capture The Flag (CTF) competition.
 
-- **Hivestorm**  
-  A cybersecurity competition where teams simulate defending and attacking systems.
-
-- **CPTC**  
-  Participating in the Collegiate Penetration Testing Competition (CPTC).
-
 ## Software Development
 
 - **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
