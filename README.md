@@ -1,31 +1,20 @@
+Here's the updated version with only the projects you mentioned, including the links:
+
+---
+
 # Edgar Quinones' GitHub
 
 I am a junior at the University of North Florida, pursuing a bachelor's degree in Computer Science with an expected graduation in Fall 2026. I am passionate about programming, cybersecurity, and game development. As the team captain of Osprey Security (OSEC), my university's cybersecurity club, I lead initiatives to explore and advance our skills in this ever-evolving field. My ultimate goal is to secure a tech career and gain a comprehensive understanding of Computer Science.
 
-## Cybersecurity
+---
 
-- **[NCAE Cyber Games](https://github.com/EdgarQuinones/NCAE-Cyber-Games)**  
-  Participating in the National Cybersecurity Awareness Education (NCAE) Cyber Games.
-
-- **[National Cyber League (NCL)](https://github.com/EdgarQuinones/National-Cyber-League)**  
-  Competing in the National Cyber League Capture The Flag (CTF) competition.
-
-## Software Development
+### Projects:
 
 - **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
   A secure password manager built with [technology stack].  
 
 - **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)**  
   A tool designed to quickly set up Capture The Flag challenges on a Linux system.
-
-- **[Flash Cards](https://github.com/EdgarQuinones/Flash-Cards)**  
-  A study tool for creating and using flashcards to help with memorization.
-
-- **[Pomodoro App](https://github.com/EdgarQuinones/Pomodoro-Timer)**  
-  A simple app to help you follow the Pomodoro technique for productivity.
-
-- **[Quiz Generator](https://github.com/EdgarQuinones/Quiz-Generator)**  
-  An app to automatically generate quizzes based on user input.
 
 - **[Hangman](https://github.com/EdgarQuinones/Hangman)**  
   A fun game of Hangman with an interactive interface.
@@ -45,19 +34,15 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 - **[Sparse Matrix 2D](https://github.com/EdgarQuinones/Sparse-Matrix-2D)**  
   A program to work with sparse 2D matrices and optimize storage.
 
-- **[Personal Cloud](https://github.com/EdgarQuinones/Personal-Cloud)**  
-  A personal cloud storage solution with file management and access controls.
-
-## Game Development
-
-- **[Ground Zero - Playable Game](https://github.com/EdgarQuinones/Ground-Zero)**  
-  Ground Zero is an action-packed video game developed by Hack Shack Studios. The game features thrilling adventures and challenges. Download the executable to enjoy the gameplay.
-
-- **[The Bravest Hunter - Playable Game](https://github.com/EdgarQuinones/The-Bravest-Hunter)**  
-  An exciting adventure game where players take on the role of a brave hero facing mythical creatures and dangerous quests. The game is available as an executable for easy access.
+- **[3D FPS](https://github.com/EdgarQuinones/3D-FPS)**  
+  An exciting 3D first-person shooter (FPS) game that challenges players with immersive environments and action-packed gameplay.
 
 - **[Pong](https://github.com/EdgarQuinones/Pong)**  
-  A reimplementation of the classic Pong game using [technology stack].
+  A reimplementation of the classic Pong game.
 
 - **[Snake](https://github.com/EdgarQuinones/Snake)**  
   A classic Snake game built with [technology stack].
+
+---
+
+Let me know if you need any more updates!
