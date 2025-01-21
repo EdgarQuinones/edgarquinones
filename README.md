@@ -30,9 +30,6 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 - **[Sparse Matrix 2D](https://github.com/EdgarQuinones/Sparse-Matrix-2D)**  
   A program to work with sparse 2D matrices and optimize storage in java.
 
-- **[3D FPS](https://github.com/EdgarQuinones/3D-FPS)**  
-  An exciting 3D first-person shooter (FPS) game that challenges players with immersive environments and action-packed gameplay in gdscript (python-like).
-
 - **[Pong](https://github.com/EdgarQuinones/Pong)**  
   A reimplementation of the classic Pong game in python.
 
