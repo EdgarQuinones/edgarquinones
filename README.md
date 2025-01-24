@@ -5,37 +5,32 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 ---
 
 ### Projects:
+**[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**
+- A task management app that sorts your goals of the day based on a set of criteria. I believe this can help people be more productive.
 
-- **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**
+**[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
+- A secure password manager built with python.
 
-  A task management app that sorts your goals of the day based on a set of criteria. I believe this can help people be more productive.
+**[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)**  
+- A tool designed to quickly set up Capture The Flag challenges on a Linux system written with bash.
+  
+**[DFA Generator](https://github.com/EdgarQuinones/DFA-Generator/tree/main)**  
+- A tool to generate Deterministic Finite Automata from regular expressions in java.
+  
+**[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)**  
+- A program to solve mazes using various algorithms in java.
 
-- **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
-  A secure password manager built with python.  
+**[Binary Tree Traversal](https://github.com/EdgarQuinones/Binary-Tree-Traversal)**  
+- A tool to demonstrate binary tree traversal algorithms in java.
 
-- **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)**  
-  A tool designed to quickly set up Capture The Flag challenges on a Linux system written with bash.
+**[Graph Traversal](https://github.com/EdgarQuinones/Graph-Traversal)**  
+- A tool to demonstrate graph traversal algorithms like DFS and BFS in java.
 
-- **[Hangman](https://github.com/EdgarQuinones/Hangman)**  
-  A fun game of Hangman with a text interface in java.
+**[Sparse Matrix 2D](https://github.com/EdgarQuinones/Sparse-Matrix-2D)**  
+- A program to work with sparse 2D matrices and optimize storage in java.
 
-- **[DFA Generator](https://github.com/EdgarQuinones/DFA-Generator/tree/main)**  
-  A tool to generate Deterministic Finite Automata from regular expressions in java.
+**[Pong](https://github.com/EdgarQuinones/Pong)**  
+- A reimplementation of the classic Pong game in python.
 
-- **[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)**  
-  A program to solve mazes using various algorithms in java.
-
-- **[Binary Tree Traversal](https://github.com/EdgarQuinones/Binary-Tree-Traversal)**  
-  A tool to demonstrate binary tree traversal algorithms in java.
-
-- **[Graph Traversal](https://github.com/EdgarQuinones/Graph-Traversal)**  
-  A tool to demonstrate graph traversal algorithms like DFS and BFS in java.
-
-- **[Sparse Matrix 2D](https://github.com/EdgarQuinones/Sparse-Matrix-2D)**  
-  A program to work with sparse 2D matrices and optimize storage in java.
-
-- **[Pong](https://github.com/EdgarQuinones/Pong)**  
-  A reimplementation of the classic Pong game in python.
-
-- **[Snake](https://github.com/EdgarQuinones/Snake)**  
-  A classic Snake game built with python.
+**[Snake](https://github.com/EdgarQuinones/Snake)**  
+- A classic Snake game built with python.
