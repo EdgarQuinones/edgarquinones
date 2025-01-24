@@ -7,6 +7,7 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 ### Projects:
 
 - **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**
+
   A task management app that sorts your goals of the day based on a set of criteria. I believe this can help people be more productive.
 
 - **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
