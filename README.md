@@ -1,3 +1,4 @@
+# Edgar Quinones' Github
 I am a junior at the University of North Florida, pursuing a bachelor's degree in Computer Science with an expected graduation in Fall 2026. I am passionate about programming, cybersecurity, and game development. As the team captain of Osprey Security (OSEC), my university's cybersecurity club, I lead initiatives to explore and advance our skills in this ever-evolving field. My ultimate goal is to secure a tech career and gain a comprehensive understanding of Computer Science.
 
 ---
