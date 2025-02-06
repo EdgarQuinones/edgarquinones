@@ -3,8 +3,10 @@ I am a junior at the University of North Florida, pursuing a bachelor's degree i
 
 ---
 
-### Projects:
-**[Evolved Time - Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**
+**[POSIX-compliant Shell](https://github.com/EdgarQuinones/shell-cpp)**
+- A POSIX compliant shell written in C++ that's capable of interpreting shell commands, running external programs and builtin commands like cd, pwd, echo and more.
+
+**[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**
 - A task management app that sorts your goals of the day based on a set of criteria to increase productivity built with java.
 
 **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
