@@ -28,3 +28,5 @@ A Python reimplementation of the classic Pong game.
 
 **[Snake](https://github.com/EdgarQuinones/Snake)**  
 A classic Snake game built with Python.  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edgarquinones)](https://git.io/streak-stats)
