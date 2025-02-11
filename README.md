@@ -23,16 +23,10 @@
 - 🧑‍💻 **Major:** Computer Science (Fall 2026)  
 - 🚀 **Interests:** Programming, Cybersecurity, Game Development  
 - 💼 **Roles:** OSEC Vice President, Cybersecurity Competitor
-
----
-
-### Top Languages
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarquinones&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ### Projects
 
