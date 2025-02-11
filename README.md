@@ -23,12 +23,31 @@
 
 ---
 
+### Language Badges
+
+<div align="center">
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</div>
+
+---
+
 ### About Me
 
 - 🎓 **University:** University of North Florida  
 - 🧑‍💻 **Major:** Computer Science (Fall 2026)  
 - 🚀 **Interests:** Programming, Cybersecurity, Game Development  
 - 💼 **Roles:** OSEC Vice President, Cybersecurity Competitor
+
+---
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarquinones&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -57,22 +76,8 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarquinones&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edgarquinones&theme=onedark&custom=super_committer,hyper_repo_create,experience_dev" alt="GitHub Trophies" />
 </p>
-
----
-
-### Cool Extras
-
-- **Fun Fact:** I'm passionate about solving complex coding challenges and creating innovative game projects!
