@@ -4,11 +4,6 @@
 <h3 align="center">University of North Florida | Computer Science (Fall 2026)</h3>
 <h4 align="center">Programmer • Cybersecurity Enthusiast • Game Developer</h4>
 <h4 align="center">OSEC Vice President • Cybersecurity Competitor</h4>
-
----
-
-### Connect with Me
-
 <div align="center">
   <a href="https://linkedin.com/in/your_linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,18 +16,6 @@
   </a>
 </div>
 
----
-
-### Language Badges
-
-<div align="center">
-  [C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-</div>
-
----
 
 ### About Me
 
