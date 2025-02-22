@@ -3,7 +3,7 @@
 
 ## 💻 Projects:  
 **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)**  <br>A shell written in C++ that interprets commands, runs external programs, and supports built-in commands like cd, pwd, and echo.  <br><br>**[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**  <br>A Java-based task management app that prioritizes daily goals to enhance productivity.  <br><br>**[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  <br>A secure password manager built with Python.  <br><br>**[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)**  <br>A Bash tool for quickly setting up Capture The Flag challenges on Linux.  <br><br>**[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)**  <br>A Java program that solves mazes using various algorithms.  <br><br>**[Pong](https://github.com/EdgarQuinones/Pong)**  <br>A Python reimplementation of the classic Pong game.  <br><br>**[Snake](https://github.com/EdgarQuinones/Snake)**  <br>A classic Snake game built with Python.  
-
+<br><br>**[Github](https://github.com/EdgarQuinones)** <br> My github containing the rest of my projects!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aMqTftn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgarquinones) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarq1215@gmail.com) 
