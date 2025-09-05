@@ -27,10 +27,10 @@ A Java implementation featuring multiple pathfinding algorithms to solve maze pu
 A wave-based FPS survival game developed collaboratively with a 9-person team, inspired by COD zombies mechanics.
 
 **[Classic Game Collection](https://github.com/EdgarQuinones/Pong)**  
-Python implementations of timeless arcade games including [Pong](https://github.com/EdgarQuinones/Pong) and [Snake](https://github.com/EdgarQuinones/Snake), built for learning and nostalgia.
+Python implementations of timeless arcade games, including [Pong](https://github.com/EdgarQuinones/Pong) and [Snake](https://github.com/EdgarQuinones/Snake), built for learning and nostalgia.
 
 ## 🌐 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aMqTftn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgarquinones) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarq1215@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aMqTftn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-quinones) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edgarq1215@gmail.com) 
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
