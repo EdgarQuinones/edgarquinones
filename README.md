@@ -5,14 +5,14 @@
 
 ## 💻 Featured Projects:  
 
-**[Nmap Pentest Scripts](https://github.com/EdgarQuinones/nmap-pentest-scripts)**  
-Custom Nmap NSE scripts for streamlined penetration testing workflows with intelligent reporting across discovery, vulnerability assessment, exploitation, and authentication phases.
-
 **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)**  
 A fully functional shell written in C++ that interprets commands, executes external programs, and supports built-in commands like cd, pwd, and echo.
 
 **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**  
 A Java-based productivity application that intelligently prioritizes daily goals to enhance task management and workflow efficiency.
+
+**[Nmap Pentest Scripts](https://github.com/EdgarQuinones/nmap-pentest-scripts)**  
+Custom Nmap NSE scripts for streamlined penetration testing workflows with intelligent reporting across discovery, vulnerability assessment, exploitation, and authentication phases.
 
 **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
 A secure password management solution built with Python, featuring encryption and user-friendly credential storage.
