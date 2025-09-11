@@ -4,26 +4,26 @@
 
 ## 💻 Featured Projects:  
 
-**[Learn-Nmap](https://github.com/EdgarQuinones/nmap-pentest-scripts)**  
-A Python tool that integrates Nmap with AI-powered analysis, making scans more efficient and generating actionable reports with recommended next steps.
+**[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)**  
+Script that utilizes LLMs to make scanning more efficient, and writes reports explaining its findings.
 
 **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)**  
-A fully functional shell written in C++ that interprets commands, executes external programs, and supports built-in commands like cd, pwd, and echo.
+Fully functional shell written in C++ that interprets commands, executes external programs, and supports built-in commands like cd, pwd, and echo.
 
 **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**  
-A Java-based productivity application that intelligently prioritizes daily goals to enhance task management and workflow efficiency.
+Java-based productivity application that intelligently prioritizes daily goals to enhance task management and workflow efficiency.
 
 **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
-A secure password management solution built with Python, featuring encryption and user-friendly credential storage.
+Secure password management solution built with Python, featuring encryption and user-friendly credential storage.
 
 **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)**  
-A Bash automation tool for rapidly deploying and configuring Capture The Flag challenges on Linux systems.
+Bash automation tool for rapidly deploying and configuring Capture The Flag challenges on Linux systems.
 
 **[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)**  
-A Java implementation featuring multiple pathfinding algorithms to solve maze puzzles with visual representation.
+Java implementation featuring multiple pathfinding algorithms to solve maze puzzles with visual representation.
 
 **[FPS Survival Demo](https://github.com/Hack-Shack-Studios/Ground-Zero)**  
-A wave-based FPS survival game developed collaboratively with a 9-person team, inspired by COD zombies mechanics.
+Wave-based FPS survival game developed collaboratively with a 9-person team, inspired by COD zombies mechanics.
 
 **[Classic Game Collection](https://github.com/EdgarQuinones/Pong)**  
 Python implementations of timeless arcade games, including [Pong](https://github.com/EdgarQuinones/Pong) and [Snake](https://github.com/EdgarQuinones/Snake), built for learning and nostalgia.
