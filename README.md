@@ -42,10 +42,3 @@ Python implementations of timeless arcade games, including [Pong](https://github
 
 **Productivity:**  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=edgarquinones&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarquinones&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-*Building tools that bridge the gap between cybersecurity theory and practice*
