@@ -43,6 +43,4 @@ Python implementations of timeless arcade games, including [Pong](https://github
 **Productivity:**  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=edgarquinones&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=edgarquinones&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
