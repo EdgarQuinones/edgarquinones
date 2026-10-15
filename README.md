@@ -10,16 +10,16 @@ I'm a Computer Science student focused on game development, gameplay programming
 ## 🎮 Featured Games
 
 ### 🏴‍☠️ [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
-An arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
+An 2D arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
 
 ### 🧟 [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
 A solo, wave-based 3D FPS survival game developed with a nine-person team, inspired by classic zombie survival modes.
 
 ### 🍂 [Falling in Fall](https://github.com/EdgarQuinones/Falling-in-Fall)
-A vertical climbing game set in an autumn-inspired environment. Navigate platforms and react to environmental hazards as you climb higher.
+A 2D vertical climbing game set in an autumn-inspired environment. Navigate platforms and react to environmental hazards as you climb higher.
 
 ### ⚔️ [Angle of Survival](https://github.com/EdgarQuinones/Angle-of-Survival)
-An arena survival game centered on staying alive for a set amount of time, testing movement, positioning, and survival skills.
+An 2D arena survival game centered on staying alive for a set amount of time, testing movement, positioning, and survival skills.
 
 ### 🐰 [A Hop Away](https://github.com/EdgarQuinones/A-Hop-Away)
 A 2D side-scrolling platformer focused on jumping, horizontal traversal, and navigating platforming challenges.
