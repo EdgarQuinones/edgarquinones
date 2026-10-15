@@ -13,7 +13,7 @@ I'm a Computer Science student focused on game development, gameplay programming
 An arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
 
 ### 🧟 [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
-A collaborative, wave-based 3D FPS survival game developed with a nine-person team, inspired by classic zombie survival modes.
+A solo, wave-based 3D FPS survival game developed with a nine-person team, inspired by classic zombie survival modes.
 
 ### 🍂 [Falling in Fall](https://github.com/EdgarQuinones/Falling-in-Fall)
 A vertical climbing game set in an autumn-inspired environment. Navigate platforms and react to environmental hazards as you climb higher.
