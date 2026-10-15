@@ -10,7 +10,7 @@ I'm a Computer Science student focused on game development, gameplay programming
 ## 🎮 Featured Games
 
 ### 🏴‍☠️ [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
-An 2D arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
+A 2D arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
 
 ### 🧟 [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
 A solo, wave-based 3D FPS survival game developed with a nine-person team, inspired by classic zombie survival modes.
