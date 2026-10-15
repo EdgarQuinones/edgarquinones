@@ -1,46 +1,73 @@
-# Edgar Quinones' GitHub
-**University of North Florida** | **Computer Science (Fall 2026)**  
-**Interests:** Software Engineering • Cybersecurity • Game Development  
+# Edgar Quinones
+### Game Developer | Computer Science @ University of North Florida
 
-## 💻 Featured Projects:  
+I'm a Computer Science student focused on game development, gameplay programming, and building interactive experiences. I enjoy experimenting with mechanics, developing game systems, and collaborating with others to bring games to life.
 
-**[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)**  
-Script that utilizes LLMs to make scanning more efficient, and writes reports explaining its findings.
+**Interests:** Game Development • Gameplay Programming • Game Systems • Software Engineering
 
-**[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)**  
-Fully functional shell written in C++ that interprets commands, executes external programs, and supports built-in commands like cd, pwd, and echo.
+---
 
-**[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)**  
-Java-based productivity application that intelligently prioritizes daily goals to enhance task management and workflow efficiency.
+## 🎮 Featured Games
 
-**[Password Manager](https://github.com/EdgarQuinones/Password-Manager)**  
-Secure password management solution built with Python, featuring encryption and user-friendly credential storage.
+### 🏴‍☠️ [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
+An arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
 
-**[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)**  
-Bash automation tool for rapidly deploying and configuring Capture The Flag challenges on Linux systems.
+### 🧟 [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
+A collaborative, wave-based 3D FPS survival game developed with a nine-person team, inspired by classic zombie survival modes.
 
-**[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)**  
-Java implementation featuring multiple pathfinding algorithms to solve maze puzzles with visual representation.
+### 🍂 [Falling in Fall](https://github.com/EdgarQuinones/Falling-in-Fall)
+A vertical climbing game set in an autumn-inspired environment. Navigate platforms and react to environmental hazards as you climb higher.
 
-**[FPS Survival Demo](https://github.com/Hack-Shack-Studios/Ground-Zero)**  
-Wave-based FPS survival game developed collaboratively with a 9-person team, inspired by COD zombies mechanics.
+### ⚔️ [Angle of Survival](https://github.com/EdgarQuinones/Angle-of-Survival)
+An arena survival game centered on staying alive for a set amount of time, testing movement, positioning, and survival skills.
 
-**[Classic Game Collection](https://github.com/EdgarQuinones/Pong)**  
-Python implementations of timeless arcade games, including [Pong](https://github.com/EdgarQuinones/Pong) and [Snake](https://github.com/EdgarQuinones/Snake), built for learning and nostalgia.
+### 🐰 [A Hop Away](https://github.com/EdgarQuinones/A-Hop-Away)
+A 2D side-scrolling platformer focused on jumping, horizontal traversal, and navigating platforming challenges.
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+---
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
-**Development & Design:**  
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+**Game Development**
 
-**Hardware & Security:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-**Productivity:**  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+**Programming Languages**
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=edgarquinones&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💻 Other Projects
+
+- **[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)** — A network scanning tool that uses LLMs to help analyze findings and generate reports.
+- **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)** — A C++ shell that executes external programs and supports built-in commands.
+- **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)** — A Java productivity application for prioritizing daily goals.
+- **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)** — A Python application for encrypted credential storage.
+- **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)** — A Bash tool for deploying and configuring Linux capture-the-flag challenges.
+- **[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)** — A Java project exploring pathfinding algorithms and maze visualization.
+- **[Classic Game Collection](https://github.com/EdgarQuinones/Pong)** — Python implementations of classic arcade games, including Pong and Snake.
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarQuinones&layout=compact&theme=dark&hide_border=true)
+
+[**View All My Repositories →**](https://github.com/EdgarQuinones?tab=repositories)
