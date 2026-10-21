@@ -1,32 +1,42 @@
 # Edgar Quinones
 ### Game Developer | Computer Science @ University of North Florida
 
-I'm a Computer Science student focused on game development, gameplay programming, and building interactive experiences. I enjoy experimenting with mechanics, developing game systems, and collaborating with others to bring games to life.
+I'm a Computer Science student at the University of North Florida focused on game development and gameplay programming. I enjoy building game mechanics, experimenting with gameplay ideas, and developing projects both independently and with a team.
 
 **Interests:** Game Development • Gameplay Programming • Game Systems • Software Engineering
 
 ---
 
-## 🎮 Featured Games
+## Featured Games
 
-### 🏴‍☠️ [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
-A 2D arena shooter where players fight to survive waves of enemy ships, featuring fast-paced combat and wave-based progression.
+### [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
+- A 2D arena shooter where players fight waves of enemy ships.
+- Features fast-paced combat and wave-based progression.
+- Developed collaboratively, with an emphasis on core gameplay and survival mechanics.
 
-### 🧟 [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
-A solo, wave-based 3D FPS survival game developed with a nine-person team, inspired by classic zombie survival modes.
+### [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
+- A 3D first-person survival shooter inspired by classic zombie survival modes.
+- Challenges players to survive successive waves of enemies.
+- Developed as part of a nine-person team.
 
-### 🍂 [Falling in Fall](https://github.com/EdgarQuinones/Falling-in-Fall)
-A 2D vertical climbing game set in an autumn-inspired environment. Navigate platforms and react to environmental hazards as you climb higher.
+### [Falling in Fall](https://github.com/EdgarQuinones/Falling-in-Fall)
+- A 2D vertical climbing game set in an autumn-themed environment.
+- Features platforming challenges and environmental hazards.
+- Incorporates flashlight mechanics, fireflies, and platforms with different behaviors.
 
-### ⚔️ [Angle of Survival](https://github.com/EdgarQuinones/Angle-of-Survival)
-An 2D arena survival game centered on staying alive for a set amount of time, testing movement, positioning, and survival skills.
+### [Angle of Survival](https://github.com/EdgarQuinones/Angle-of-Survival)
+- A 2D arena survival game built around surviving until the timer expires.
+- Emphasizes movement, positioning, and survival.
+- Focuses on a straightforward gameplay loop with a clear objective.
 
-### 🐰 [A Hop Away](https://github.com/EdgarQuinones/A-Hop-Away)
-A 2D side-scrolling platformer focused on jumping, horizontal traversal, and navigating platforming challenges.
+### [A Hop Away](https://github.com/EdgarQuinones/A-Hop-Away)
+- A 2D side-scrolling platformer focused on jumping and horizontal traversal.
+- Challenges players to navigate platforms and obstacles.
+- Explores fundamental platforming mechanics and level design.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Game Development**
 
@@ -54,11 +64,11 @@ A 2D side-scrolling platformer focused on jumping, horizontal traversal, and nav
 
 ---
 
-## 💻 Other Projects
+## Other Projects
 
-- **[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)** — A network scanning tool that uses LLMs to help analyze findings and generate reports.
+- **[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)** — A Python network scanning tool that uses an LLM to analyze Nmap results and generate reports.
 - **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)** — A C++ shell that executes external programs and supports built-in commands.
-- **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)** — A Java productivity application for prioritizing daily goals.
+- **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)** — A Java application for organizing tasks and prioritizing daily goals.
 - **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)** — A Python application for encrypted credential storage.
 - **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)** — A Bash tool for deploying and configuring Linux capture-the-flag challenges.
 - **[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)** — A Java project exploring pathfinding algorithms and maze visualization.
@@ -66,8 +76,8 @@ A 2D side-scrolling platformer focused on jumping, horizontal traversal, and nav
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarQuinones&layout=compact&theme=dark&hide_border=true)
 
-[**View All My Repositories →**](https://github.com/EdgarQuinones?tab=repositories)
+[**View All Repositories**](https://github.com/EdgarQuinones?tab=repositories)
