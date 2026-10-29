@@ -14,7 +14,7 @@ I'm a Computer Science student at the University of North Florida focused on gam
 - Features fast-paced combat and wave-based progression.
 - Developed collaboratively, with an emphasis on core gameplay and survival mechanics.
 
-### [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
+### [Ground Zero](https://github.com/EdgarQuinones/Ground-Zero)
 - A 3D first-person survival shooter inspired by classic zombie survival modes.
 - Challenges players to survive successive waves of enemies.
 - Developed as part of a nine-person team.
