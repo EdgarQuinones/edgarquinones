@@ -84,6 +84,6 @@ A colorful side-scrolling platformer focused on movement, jumping, and obstacle 
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarQuinones&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=EdgarQuinones&layout=compact&theme=dark&hide_border=true)
 
 [**View All Repositories**](https://github.com/EdgarQuinones?tab=repositories)
