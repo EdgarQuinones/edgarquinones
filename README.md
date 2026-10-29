@@ -1,7 +1,10 @@
 # Edgar Quinones
+
 ### Game Developer | Computer Science @ University of North Florida
 
-I'm a Computer Science student at the University of North Florida focused on game development and gameplay programming. I enjoy building game mechanics, experimenting with gameplay ideas, and developing projects both independently and with a team.
+I'm a Computer Science student at the University of North Florida with a passion for game development, particularly gameplay programming and game systems.
+
+I enjoy designing and implementing engaging mechanics, solving technical challenges, and bringing game ideas to life. My experience includes solo development, game jams, and leading collaborative development teams.
 
 **Interests:** Game Development • Gameplay Programming • Game Systems • Software Engineering
 
@@ -9,30 +12,34 @@ I'm a Computer Science student at the University of North Florida focused on gam
 
 ## Featured Games
 
-### [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
-- A 2D arena shooter where players fight waves of enemy ships.
-- Features fast-paced combat and wave-based progression.
-- Developed collaboratively, with an emphasis on core gameplay and survival mechanics.
-
 ### [Ground Zero](https://github.com/Hack-Shack-Studios/Ground-Zero)
-- A 3D first-person survival shooter inspired by classic zombie survival modes.
-- Challenges players to survive successive waves of enemies.
-- Developed as part of a nine-person team.
+**3D First-Person Survival Shooter | Project Lead & Lead Developer**
+
+A wave-based FPS where players defend a central structure known as the Forge against robotic enemies. Defeat enemies, earn currency, and purchase upgrades while keeping the Forge operational.
+
+Developed collaboratively with a nine-person team.
+
+### [Pirate Warfare](https://github.com/moralesA179/PirateWarfare)
+**2D Arena Shooter | Project Lead**
+
+A top-down naval combat game featuring enemy waves, ship upgrades, multiple cannon types, and explorable islands.
+
+Led development and contributed to level integration, animation implementation, and gameplay polish.
 
 ### [Falling in Fall](https://github.com/EdgarQuinones/Falling-in-Fall)
-- A 2D vertical climbing game set in an autumn-themed environment.
-- Features platforming challenges and environmental hazards.
-- Incorporates flashlight mechanics, fireflies, and platforms with different behaviors.
+**2D Puzzle Platformer | Project Lead & Gameplay Programmer**
+
+A vertical climbing platformer where players use a flashlight to navigate a mysterious tree. Features shifting platforms, environmental hazards, and light-based gameplay mechanics.
 
 ### [Angle of Survival](https://github.com/EdgarQuinones/Angle-of-Survival)
-- A 2D arena survival game built around surviving until the timer expires.
-- Emphasizes movement, positioning, and survival.
-- Focuses on a straightforward gameplay loop with a clear objective.
+**2D Arena Survival Shooter | Solo Developer**
+
+A survival shooter featuring a weapon that ricochets between enemies. Created in approximately seven hours for Trijam #358, my first game jam.
 
 ### [A Hop Away](https://github.com/EdgarQuinones/A-Hop-Away)
-- A 2D side-scrolling platformer focused on jumping and horizontal traversal.
-- Challenges players to navigate platforms and obstacles.
-- Explores fundamental platforming mechanics and level design.
+**2D Platformer | Solo Developer**
+
+A colorful side-scrolling platformer focused on movement, jumping, and obstacle navigation.
 
 ---
 
@@ -57,7 +64,6 @@ I'm a Computer Science student at the University of North Florida focused on gam
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=javafx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,12 +72,12 @@ I'm a Computer Science student at the University of North Florida focused on gam
 
 ## Other Projects
 
-- **[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)** — A Python network scanning tool that uses an LLM to analyze Nmap results and generate reports.
-- **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)** — A C++ shell that executes external programs and supports built-in commands.
-- **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)** — A Java application for organizing tasks and prioritizing daily goals.
-- **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)** — A Python application for encrypted credential storage.
-- **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)** — A Bash tool for deploying and configuring Linux capture-the-flag challenges.
-- **[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)** — A Java project exploring pathfinding algorithms and maze visualization.
+- **[ScanSentinel](https://github.com/EdgarQuinones/nmap-pentest-scripts)** — Python network scanning tool that uses an LLM to analyze Nmap results and generate reports.
+- **[POSIX-Compliant Shell](https://github.com/EdgarQuinones/shell-cpp)** — C++ shell supporting external program execution and built-in commands.
+- **[Task Manager](https://github.com/EdgarQuinones/Evolved-Time)** — Java application for task organization and prioritization.
+- **[Password Manager](https://github.com/EdgarQuinones/Password-Manager)** — Python application for encrypted credential storage.
+- **[Linux CTF Launcher](https://github.com/EdgarQuinones/Linux-CTF-Launcher)** — Bash tool for deploying and configuring Linux capture-the-flag challenges.
+- **[Maze Solver](https://github.com/EdgarQuinones/Maze-Solver)** — Java application exploring pathfinding algorithms and maze visualization.
 - **[Classic Game Collection](https://github.com/EdgarQuinones/Pong)** — Python implementations of classic arcade games, including Pong and Snake.
 
 ---
